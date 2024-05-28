@@ -9,7 +9,7 @@ body {
 }
 
 .flexperfil{
-    background-image: url("../img/imagen\ de\ fondo.jpg");
+    background-image: url(../img/imagen\ de\ fondo.jpg);
     display: flex;
     flex-direction: column;
     align-items: baseline;
