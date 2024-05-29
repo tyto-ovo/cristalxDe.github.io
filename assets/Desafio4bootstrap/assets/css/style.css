@@ -1,0 +1,91 @@
+
+
+.container-fluid{
+    background-color: #28A745;
+}
+
+nav img{
+    width: 86px;
+    height: 25px;
+}
+
+.colorg{
+    font-size: 16px;
+}
+
+.colorv{
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.card{
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+}
+
+.uno{
+    font-size: 16px;
+}
+
+.dos{
+    font-size: 13px;
+}
+
+/* .roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-weight: 700;
+} */
+
+.form-label{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    display: flex;
+    justify-content: space-around;
+    font-size: 21px;
+}
+
+footer{
+    text-align: center;
+}
+
+footer img{
+    width: 82px;
+    height: 24px;
+
+}
+
+footer p{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+  /* }
+  .fondola{
+    background-color: #28A745; */
+  /* }
+  .form-label{
+    margin-left: 700px;
+  } */
+/* img{
+    width: 180px;
+    height: 278px; 
+}*/
+
+/* .nav-link{
+    color: white;
+}
+.navbar-brand{
+    color: white;
+}
+.span.navbar-toggler-icon{
+    color: white;
+}
+.navbar-toggler{
+    color: white;
+} */
