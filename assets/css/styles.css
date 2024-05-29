@@ -61,3 +61,11 @@ body {
     max-width: 100%;
     height: 200px;   
 }
+
+.color{
+    background-color: rgb(38, 191, 211);
+}
+
+footer{
+    background-color:rgba(38, 191, 211, 0.384);
+}
